@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-a-crypto-web-app/static/css/main.068cd930.css",
+    "main.js": "/search-a-crypto-web-app/static/js/main.59cb786f.js",
+    "index.html": "/search-a-crypto-web-app/index.html",
+    "main.068cd930.css.map": "/search-a-crypto-web-app/static/css/main.068cd930.css.map",
+    "main.59cb786f.js.map": "/search-a-crypto-web-app/static/js/main.59cb786f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068cd930.css",
+    "static/js/main.59cb786f.js"
+  ]
+}
